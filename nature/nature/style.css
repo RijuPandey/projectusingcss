@@ -1,0 +1,72 @@
+#box1{
+    height:100px;
+    width:100px;
+    background-image:url(nature\ img.jpg);
+    background-size: cover;
+    color:white;
+    right:0px;
+    top:0px;
+    position: fixed;
+}
+#box2{
+    height:100px;
+    width:100px;
+    background-image:url(lotusomg.jpg);
+    background-size: cover;
+    color:white;
+    left:0px;
+    top: 100px;;
+    position: fixed;
+}
+#box3{
+        height:100px;
+        width:100px;
+        background-image:url(nature3.jpg);
+        background-size: cover;
+        color:white;
+        right:110px;
+        top:0px;
+        position: fixed; 
+}   
+body{
+    background-image: url(nature2.webp);
+    background-size: cover;
+}
+p{
+    color:cyan;
+}
+h1{
+    text-align:center;
+    color:cornsilk;
+}
+footer{
+    background-color:black;
+    color:white;
+    text-align:center;
+    display:inline;
+}
+#navbar{
+    height:40px;
+    background-color: darkslategrey;
+    position: fixed;
+
+}
+#button{
+    background-color: cadetblue;
+}
+#logo{
+    color:white;
+}
+a{
+    margin-right: 20px;
+}
+#box4{
+    height:400px;
+    width:400px;
+    background-image:url(quote\ on\ nature.jpg);
+    background-size: cover;
+    color:white;
+    bottom:100px;
+    left: 50px;
+    padding-left: 50px;
+}
